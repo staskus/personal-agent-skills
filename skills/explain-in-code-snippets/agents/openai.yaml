@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explain in Code Snippets"
+  short_description: "Explain code changes with annotated snippets"
+  default_prompt: "Use $explain-in-code-snippets to explain this change in simplified technical English, with annotated snippets, its purpose, runtime behavior, evidence, and limits."

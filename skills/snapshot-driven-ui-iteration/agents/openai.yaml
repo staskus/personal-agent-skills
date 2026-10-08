@@ -1,0 +1,4 @@
+interface:
+  display_name: "Snapshot-driven UI iteration"
+  short_description: "Check UI changes with rendered snapshots"
+  default_prompt: "Use $snapshot-driven-ui-iteration to implement this UI change, compare rendered snapshots with the design goal, and report the checked states and remaining gaps."

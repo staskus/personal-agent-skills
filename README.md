@@ -10,7 +10,7 @@ Skills I use with coding agents. Copy, use, or adapt them.
 
 ## Install
 
-With Node.js installed, run:
+With Node.js 22.20 or later installed, run:
 
 ```sh
 npx skills add staskus/personal-agent-skills --skill explain-in-code-snippets

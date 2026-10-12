@@ -1,0 +1,7 @@
+interface:
+  display_name: "Safe iOS disk cleanup"
+  short_description: "Inspect and remove unused iOS build data"
+  default_prompt: "Use $safe-ios-disk-cleanup to inspect iOS disk use and remove only verified unused generated data. Preserve active work and report the result."
+
+policy:
+  allow_implicit_invocation: false
